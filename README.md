@@ -66,7 +66,9 @@ Note. This demonstration highlights the interactive features of the second analy
 ### Findings
 This project revealed that gun violence incidents are geographically concentrated, and were heavily concentrated in highly populated states such as Illinois, California, Florida, and Texas. Geographic clustering was strongest in large urban regions and throughout the Eastern half of the United States.
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
 **Figure 2.** Geographic Distribution of Gun Violence Incidents in the U.S.
 
@@ -81,11 +83,16 @@ Note. This heat map visualization highlights the density of recorded gun violenc
 </i>
 </p>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 The temporal analysis revealed a steady increase in recorded incidents between 2013 and 2017 before declining in 2018. This shift in incident levels suggests that gun violence patterns fluctuated over time rather than remaining stable.
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
 **Figure 3.** Trend of Gun Violence Incident Severity Over Time (2013 - 2018)
 
@@ -100,11 +107,16 @@ Note. This stacked bar chart illustrates how both lower-severity (orange) and no
 </i>
 </p>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 The demographic analysis depicted adults (18+) as the largest contributor to incidents across all severity categories. However, incidents involving teenagers and children still represented an important public safety concern.
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
 **Figure 3.** Gun Violence Incidents Over Time by Age Group
 
@@ -119,7 +131,10 @@ Note. This line chart compares incident involvement across age groups over time 
 </i>
 </p>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 In regards to incident severity, most incidents involved only 1-4 victims (low severity). High-severity incidents were drastically less common but still concentrated in states with the highest overall incident frequency. Overall, the findings demonstrate that gun violence patterns are not evenly distributed across the United States and instead vary significantly by geography, time period, and demographic group.
 
