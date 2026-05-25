@@ -40,7 +40,7 @@ The second analysis dashboard examines demographic patterns, particularly compar
 
 <div align="center">
 
-### Figure 1. Live Demonstration of Analysis 2 Dashboard Features
+**Figure 1.** Live Demonstration of Analysis 2 Dashboard Features
 
 <a href="https://www.youtube.com/watch?v=vzSGy8r5bDQ" target="_blank">
   <img 
