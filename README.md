@@ -39,10 +39,14 @@ The first analysis dashboard focuses on geographic and temporal trends. Maps and
 The second analysis dashboard examines demographic patterns, particularly comparisons between incidents involving children, teenagers, and adults. This dashboard uses age-group classifications from the dataset to show how different geographic groups are represented across states and incident severity categories. One key feature in this dashboard is the ability to select a specific state on the map for deeper analysis. When a state is selected, the other visualizations automatically update to display data only for that state. This allows users to compare demographic patterns and incident severity at both the national and state level without leaving the dashboard.
 
 **Figure 1.** Live Demonstration of Analysis 2 Dashboard Features
-<a href="https://www.youtube.com/watch?v=vzSGy8r5bDQ" target="_blank">
-  <img width="1402" height="788" alt="image"
-       src="https://github.com/user-attachments/assets/59a0abef-389d-4f02-96a4-4cb47ca32dbb" />
-</a>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=vzSGy8r5bDQ" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/59a0abef-389d-4f02-96a4-4cb47ca32dbb"
+      alt="Second Analysis Dashboard Demo"
+      width="600">
+  </a>
+</div>
 *Note.* This demonstration highlights the interactive features of the second analysis dashboard, including state-based filtering and hover tooltips that allow users to explore detailed information dynamically. The image links to the video, but here is the link as well: https://www.youtube.com/watch?v=vzSGy8r5bDQ
 
 The conclusion dashboard finishes the story by summarizing the project’s major findings and connecting those findings to existing scholarly and public research on firearm violence.
