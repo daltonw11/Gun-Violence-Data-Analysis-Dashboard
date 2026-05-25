@@ -53,11 +53,6 @@ The second analysis dashboard examines demographic patterns, particularly compar
 <i>
 Note. This demonstration highlights the interactive features of the second analysis dashboard, including state-based filtering and hover tooltips that allow users to explore detailed information dynamically. The image links to the video.
 </i>
-</p>
-
-<a href="https://www.youtube.com/watch?v=vzSGy8r5bDQ">
-Second Analysis Dashboard - Interactive Demo
-</a>
 
 </div>
 
