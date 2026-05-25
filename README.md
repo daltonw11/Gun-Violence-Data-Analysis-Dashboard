@@ -8,7 +8,9 @@ https://public.tableau.com/app/profile/dalton.willis/viz/Willis_Story_Final/Fina
 ## Formal Report
 ### Introduction
   Gun violence remains one of the most significant public health and safety concerns in the United States, with rates “rising from 92 deaths per day to 132 deaths per day from 2012 to 2022” (Saunders et al., 2025). Discussions surrounding firearm violence tend to involve political debates, legislation, healthcare concerns, and community safety, but large-scale patterns behind these incidents can sometimes be difficult to understand through statistics alone. By exploring this topic through an incident-level analysis, the goal is to use data from the Gun Violence Archive to explore how incidents vary across states and over time.
+  
   This project focuses on identifying measurable patterns within the data itself rather than simply attempting to explain why gun violence occurs. By organizing the information into an interactive story dashboard, the project allows viewers to explore where incidents occur most frequently, how trends changed over time, and which demographic groups were most commonly involved in incidents.
+  
   This visualization is designed for a general audience rather than researchers/ experts in criminal justice or public policy. The goal was to make the findings more understandable for individuals with little or no experience in interpreting datasets or interactive dashboards. Since gun violence affects communities across the country, this project aims to help viewers better understand the scale and distribution of these incidents in a way that seems visually clear.
 
 ### Research Questions
@@ -17,7 +19,7 @@ https://public.tableau.com/app/profile/dalton.willis/viz/Willis_Story_Final/Fina
 - Which regions exhibit the highest concentration of incidents?
 - How have gun violence incidents changed over time?
 
-  As I explored the dataset further, demographic patterns also became an important secondary focus. Variables involving children, teenagers, and adults provided additional context that helped strengthen the overall story.
+As I explored the dataset further, demographic patterns also became an important secondary focus. Variables involving children, teenagers, and adults provided additional context that helped strengthen the overall story.
 
 ### The Data
   This project uses the Gun Violence Archive dataset, which contains over 200,000 recorded gun violence incidents in the United States from 2013–2018. Each row represents a single incident and includes information about location, date, injuries, fatalities, and participant demographics.
