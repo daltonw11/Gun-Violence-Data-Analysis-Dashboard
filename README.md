@@ -78,3 +78,47 @@ Note. This heat map visualization highlights the density of recorded gun violenc
 
 </div>
 
+The temporal analysis revealed a steady increase in recorded incidents between 2013 and 2017 before declining in 2018. This shift in incident levels suggests that gun violence patterns fluctuated over time rather than remaining stable.
+
+<div align="center">
+
+**Figure 3.** Trend of Gun Violence Incident Severity Over Time (2013 - 2018)
+
+<img 
+  src="https://github.com/user-attachments/assets/44ce13ce-5a41-4eb3-9c1d-ca1752b07d53"
+  alt="Trend of Gun Violence Incident Severity Over Time"
+  width="600">
+
+<p align="center">
+<i>
+Note. This stacked bar chart illustrates how both lower-severity (orange) and no victim (red) gun violence incidents changed over time, showing an increase in incidents through 2017 before declining in 2018.
+</i>
+</p>
+
+</div>
+
+The demographic analysis depicted adults (18+) as the largest contributor to incidents across all severity categories. However, incidents involving teenagers and children still represented an important public safety concern.
+
+<div align="center">
+
+**Figure 3.** Gun Violence Incidents Over Time by Age Group
+
+<img 
+  src="https://github.com/user-attachments/assets/b27fb9df-546c-4603-94fe-b0c85ffa617f"
+  alt="Gun Violence Incidents Over Time by Age Group"
+  width="600">
+
+<p align="center">
+<i>
+Note. This line chart compares incident involvement across age groups over time in the country, showing that adults (dark green) consistently represented the largest share of recorded incidents, while incidents involving teenagers (lime green) and children (yellow) remained present at lower but persistent levels throughout the dataset period.
+</i>
+</p>
+
+</div>
+
+In regards to incident severity, most incidents involved only 1-4 victims (low severity). High-severity incidents were drastically less common but still concentrated in states with the highest overall incident frequency. Overall, the findings demonstrate that gun violence patterns are not evenly distributed across the United States and instead vary significantly by geography, time period, and demographic group.
+
+### Next Steps
+If this project were to be further developed in the future, the integration of external datasets related to population densities, income levels, and healthcare access. Combining these variables with the incident data could help explore possible relationships between gun violence and broader social conditions.
+
+The addition of a more detailed demographic analysis, including gender patterns or comparisons between rural and urban areas, would also greatly strengthen this project. Additional interactivity could also improve the user experience by allowing viewers to filter incidents by year, state, or severity level directly within the dashboards.
