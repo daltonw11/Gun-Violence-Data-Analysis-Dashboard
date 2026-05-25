@@ -40,7 +40,7 @@ The second analysis dashboard examines demographic patterns, particularly compar
 
 The conclusion dashboard finishes the story by summarizing the project’s major findings and connecting those findings to existing scholarly and public research on firearm violence.
 
-<div style="background-color:#111827; padding:20px; border-radius:12px; margin:20px 0;">
+<div style="background-color:#161B22; padding:24px; border-radius:12px; border:1px solid #30363d; margin:25px 0;">
 <div align="center">
 
 **Figure 1.** Live Demonstration of Analysis 2 Dashboard Features
@@ -58,6 +58,7 @@ Note. This demonstration highlights the interactive features of the second analy
 </i>
 
 </div>
+
 </div>
 
 ### Findings
