@@ -40,9 +40,9 @@ The second analysis dashboard examines demographic patterns, particularly compar
 
 The conclusion dashboard finishes the story by summarizing the project’s major findings and connecting those findings to existing scholarly and public research on firearm violence.
 
-<div style="background-color:#161B22; padding:24px; border-radius:12px; border:1px solid #30363d; margin:25px 0;">
-  
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
 **Figure 1.** Live Demonstration of Analysis 2 Dashboard Features
 
@@ -57,11 +57,11 @@ The conclusion dashboard finishes the story by summarizing the project’s major
 <i>
 Note. This demonstration highlights the interactive features of the second analysis dashboard, including state-based filtering and hover tooltips that allow users to explore detailed information dynamically. The image links to the video.
 </i>
-</p>
 
-</div>
+</td>
 
-</div>
+</tr>
+</table>
 
 ### Findings
 This project revealed that gun violence incidents are geographically concentrated, and were heavily concentrated in highly populated states such as Illinois, California, Florida, and Texas. Geographic clustering was strongest in large urban regions and throughout the Eastern half of the United States.
