@@ -57,6 +57,7 @@ The conclusion dashboard finishes the story by summarizing the project’s major
 <i>
 Note. This demonstration highlights the interactive features of the second analysis dashboard, including state-based filtering and hover tooltips that allow users to explore detailed information dynamically. The image links to the video.
 </i>
+</p>
 
 </div>
 
