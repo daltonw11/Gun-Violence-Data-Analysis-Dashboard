@@ -38,6 +38,8 @@ The first analysis dashboard focuses on geographic and temporal trends. Maps and
 
 The second analysis dashboard examines demographic patterns, particularly comparisons between incidents involving children, teenagers, and adults. This dashboard uses age-group classifications from the dataset to show how different geographic groups are represented across states and incident severity categories. One key feature in this dashboard is the ability to select a specific state on the map for deeper analysis. When a state is selected, the other visualizations automatically update to display data only for that state. This allows users to compare demographic patterns and incident severity at both the national and state level without leaving the dashboard.
 
+The conclusion dashboard finishes the story by summarizing the project’s major findings and connecting those findings to existing scholarly and public research on firearm violence.
+
 <div align="center">
 
 **Figure 1.** Live Demonstration of Analysis 2 Dashboard Features
@@ -56,7 +58,23 @@ Note. This demonstration highlights the interactive features of the second analy
 
 </div>
 
-The conclusion dashboard finishes the story by summarizing the project’s major findings and connecting those findings to existing scholarly and public research on firearm violence.
-
 ### Findings
+This project revealed that gun violence incidents are geographically concentrated, and were heavily concentrated in highly populated states such as Illinois, California, Florida, and Texas. Geographic clustering was strongest in large urban regions and throughout the Eastern half of the United States.
+
+<div align="center">
+
+**Figure 2.** Geographic Distribution of Gun Violence Incidents in the U.S.
+
+<img 
+  src="https://github.com/user-attachments/assets/e6faa750-2261-41a4-86a9-1785a2d3c330"
+  alt="Geographic Distribution of Gun Violence Incidents"
+  width="600">
+
+<p align="center">
+<i>
+Note. This heat map visualization highlights the density of recorded gun violence incidents across the United States, with darker and brighter regions representing areas where incidents occurred more frequently throughout the dataset period.
+</i>
+</p>
+
+</div>
 
